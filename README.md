@@ -17,7 +17,7 @@
 
 **Title:** SQL Data Definition Language - Sales Data
 
-**SQL Code:**  [Sales Data] (https://github.com/SylvesterAmhandin/SylvesterAmhandin.github.io/blob/main/Sales_Data.SQL)
+**SQL Code:** [Sales Data](https://github.com/SylvesterAmhandin/SylvesterAmhandin.github.io/blob/main/Sales_Data.SQL)
 
 **SQL Skills Used:**
 
