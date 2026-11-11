@@ -1,4 +1,4 @@
-# DATA ANALYTICS PORTFOLIO
+ # DATA ANALYTICS PORTFOLIO
 
 # Project 1
 
@@ -12,3 +12,15 @@
 
 **Dashboard Overview:** 
 ![CSPDDASHBOARD](CSPDDASHBOARD.png)
+
+# Project 2
+
+**Title:** SQL Data Definition Language - Sales Data
+
+**SQL Code:**  [Sales Data] (https://github.com/SylvesterAmhandin/SylvesterAmhandin.github.io/blob/main/Sales_Data.SQL)
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology used:** SQL server
